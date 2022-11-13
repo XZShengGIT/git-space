@@ -2,7 +2,7 @@ hello git!
 hello git!
 hello git!hot-fix version	
 hello git!
-hello git!
+hello git! hot-fix version2
 hello git!
 hello git!
 hello git!
